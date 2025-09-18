@@ -5,7 +5,7 @@ This repo contains two Jupyter notebooks that implement and compare four autoenc
 </p>
 <ul>
   <li><strong>DAE</strong> — Deterministic Autoencoder (baseline)</li>
-  <li><strong>β-VAE</strong> — VAE with β-scaled KL</li>
+  <li><strong>β-VAE</strong> — VAE with β-scaled KL  (baseline)</li>
   <li><strong>SAVAE</strong> — Mixture prior + heteroscedastic decoder + MC-dropout</li>
   <li><strong>AR-SAVAE</strong> — Scene latent + AR slot prior + LPIPS perceptual term</li>
 </ul>
